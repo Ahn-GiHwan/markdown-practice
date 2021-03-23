@@ -59,9 +59,9 @@ target="_blank">NAVER</a>
 타겟은 태그로 설정해야 한다
 
 # 이미지(Images)
-[HEROPY](https://heropy.blog/css/images/logo.png)
+[Ahn,GiHwan](https://github.com/Ahn-GiHwan)
 
-[![HEROPY](https://heropy.blog/css/images/logo.png)](https://heropy.blog/)
+[![NAVER](https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTAzMTBfMTk0%2FMDAxNjE1MzUzMzg2Nzg4.hz554HX1I6mEzPisdG1_8w7NuKTfMcnLI9TdVk4Ry8Ag.KMXR04T3JDiSb6GEYhDeuMS6skGDqK97ZazaYYGRtpkg.PNG.designerjuni%2F%25B3%25D7%25BE%25EE%25B9%25F6%25B7%25CE%25B0%25ED.png&type=sc960_832)](https://github.com/Ahn-GiHwan)
 
 # 인용문(BlockQuote)
 > 남의 말이나 글에서 직접 또는 간접적으로 따온 문장.  
@@ -102,3 +102,13 @@ fixed | 뷰포트 | X
 
 동해물과 <span style="text-decoration : underline">백두산</span>이 <u>마르고</u> 닳도록<br/>
 하느님이 보우하사 우리나라 만세
+
+<a href="https://www.naver.com" title="네이버로 이동!"
+target="_blank">NAVER</a>
+
+<img width="70" src="https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTAzMTBfMTk0%2FMDAxNjE1MzUzMzg2Nzg4.hz554HX1I6mEzPisdG1_8w7NuKTfMcnLI9TdVk4Ry8Ag.KMXR04T3JDiSb6GEYhDeuMS6skGDqK97ZazaYYGRtpkg.PNG.designerjuni%2F%25B3%25D7%25BE%25EE%25B9%25F6%25B7%25CE%25B0%25ED.png&type=sc960_832" alt="NAVER"/>
+
+# 수평성(Horizontal Rule)
+---
+***  
+___
